@@ -1,1 +1,1 @@
-# Basic-Calculator
+Developed a fully functional web-based calculator that performs basic arithmetic opertaions. The calculator supports addition, subtraction, multiplication and division operationsand handles user inputs and calculations in real time.
